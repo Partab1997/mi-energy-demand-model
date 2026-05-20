@@ -1,3 +1,4 @@
+from scipy.optimize import differential_evolution
 import warnings
 
 # Parameter boundaries
