@@ -1,0 +1,20 @@
+mee-energy-demand-model/
+│
+├── data/
+│   └── dataset.csv
+│
+├── outputs/
+│   ├── figures/
+│   ├── tables/
+│   ├── models/
+│   └── shap/
+│
+├── src/
+│   ├── main_pipeline.py
+│   ├── optimization.py
+│   ├── visualization.py
+│   └── utils.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
